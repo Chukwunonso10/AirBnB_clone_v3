@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Kuzue Chukwunonso - [Github] (https://github.com/Chukwunonso10)
-Dauda Temilade - [Github] (https://github.com/ dtemilade
+Dauda Temilade - [Github] (https://github.com/ dtemilade)
 
 Second part of Airbnb: Kuzue Chukwunonso & Dauda Temilade
 ## License
