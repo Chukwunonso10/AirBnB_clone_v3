@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Kuzue Chukwunonso - [Github] (https://github.com/Chukwunonso10)
-Dauda Temilade - [Github] (https://github.com/ dtemilade
+Kuzue Chukwunonso - [Github] (https://github.com/Chukwunonso10) [Email] (kuzuechinonsojude@gmail.com)
+Dauda Temilade - [Github] (https://github.com/dtemilade) [Email] (dtemilade@gmail.com)
 
 Second part of Airbnb: Kuzue Chukwunonso & Dauda Temilade
 ## License
